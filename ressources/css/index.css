@@ -1,0 +1,25 @@
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+body {
+    background-color: #5e8fc3 ;
+}
+
+* {
+    font-family: 'Lora', serif;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin: 15px;
+}
+
+/* font-family: 'Montserrat', sans-serif; */
+/* font-family: 'Lora', serif; */
